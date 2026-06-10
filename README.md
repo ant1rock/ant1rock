@@ -1,5 +1,5 @@
 - 👋 Hi
-- 👀 I’m interested in ServiceNow Process Automations
+- 👀 ServiceNow Process Automations
 
 
 <!---
